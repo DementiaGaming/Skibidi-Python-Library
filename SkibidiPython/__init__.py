@@ -1,0 +1,1 @@
+from .package import yap, lethimcook, brainrotmaxxing

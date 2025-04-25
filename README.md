@@ -2,4 +2,15 @@
  A package that adds brainrot functions to Python.
 
 # Functions
-do later
+| Python Function   | Skibidi Python   |
+|:----------------:|:----------------:|
+| print            | yap              |
+| input            | lethimcook       |
+| max              | topG             |
+| min              | lilBro           |
+| type             | whatEvenAreYou   |
+| dict             | infoDump         |
+| help             | cryForHelp       |
+| exit             | rageQuit         |
+
+

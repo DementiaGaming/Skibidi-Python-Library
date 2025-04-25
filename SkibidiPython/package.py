@@ -1,10 +1,8 @@
-def yap(text):
-  print(text)
-
-def lethimcook(text=""):
-  userInput = input(text)
-  return userInput
-
-def brainrotmaxxing(*args):
-  return max(*args)
-
+yap = print
+lethimcook = input
+topG = max
+lilBro = min
+whatEvenAreYou = type
+infoDump = dict
+cryForHelp = help
+rageQuit = exit

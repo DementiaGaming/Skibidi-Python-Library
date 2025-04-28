@@ -1,8 +1,11 @@
 yap = print
-lethimcook = input
+letHimCook = input
 topG = max
 lilBro = min
 whatEvenAreYou = type
 infoDump = dict
 cryForHelp = help
 rageQuit = exit
+iBoughtAPropertyInEgypt = property
+lockIn = open
+real = float

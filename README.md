@@ -1,6 +1,11 @@
 # Skibidi-Python-Library
  A package that adds brainrot functions to Python.
 
+# Installation
+Use pip to install the package.
+```
+pip install skibidiPython
+```
 # Functions
 | Python Function   | Skibidi Python   |
 |:----------------:|:----------------:|

@@ -12,5 +12,6 @@
 | dict             | infoDump         |
 | help             | cryForHelp       |
 | exit             | rageQuit         |
-
-
+| property         | iBoughtAPropertyInEgypt |
+| float            | real             |
+| open             | lockIn           |
